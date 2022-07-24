@@ -1,0 +1,4836 @@
+/*
+	@name smartwinners___nome_page
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { 
+	position: relative; 
+	height: 3196px; 
+	overflow: hidden; 
+	margin-left: auto; 
+	margin-right: auto;
+	display: flex;
+    justify-content: center;
+  }
+
+#_bg__smartwinners___nome_page {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 3196px;
+	background:rgba(255,255,255,1);
+}
+
+#footer {
+	top: 2638px;
+	width: 1200px;
+	height: 558.36px;
+	background: linear-gradient(-359.99999388899deg , rgba(224,224,224,0.47) 0%, rgba(225,225,225,0.16) 15%, rgba(255,253.94,253.94,0.26) 62%, rgba(255,255,255,1) 93%);
+}
+
+#__ {
+	top: 0px;
+	left: 0px;
+	width: 1200px;
+	height: 273.06px;
+}
+
+#footer_ek1 {
+	top: 103.36px;
+	left: 0px;
+	width: 1200px;
+	height: 455px;
+}
+
+#rectangle_289 {
+	top: 0px;
+	left: 0px;
+	width: 1200px;
+	height: 455px;
+}
+
+#group_205 {
+	top: 30px;
+	left: 108.73px;
+	width: 968px;
+	height: 369.37px;
+}
+#group_ {
+	top: 78px;
+	left: 0px;
+	width: 968px;
+	height: 291px;
+}
+#useful_links {
+	top: 0px;
+	left: 0px;
+	width: 183px;
+	height: 291px;
+}
+
+#useful_links_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 127px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+#links {
+	top: 36px;
+	left: 0px;
+	width: 183px;
+	height: 255px;
+}
+
+#lottery_results___winners {
+	top: 0px;
+	left: 0px;
+	width: 204px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#lottery_promotions {
+	top: 26px;
+	left: 0px;
+	width: 158px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#about_us {
+	top: 52px;
+	left: 0px;
+	width: 87px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#contact_us {
+	top: 78px;
+	left: 0px;
+	width: 100px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#terms___conditions {
+	top: 104px;
+	left: 0px;
+	width: 161px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#security {
+	top: 130px;
+	left: 0px;
+	width: 79px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#privacy_policy {
+	top: 156px;
+	left: 0px;
+	width: 120px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#acceptable_use_policy {
+	top: 182px;
+	left: 0px;
+	width: 179px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#website_use_policy {
+	top: 208px;
+	left: 0px;
+	width: 157px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#affiliate_program {
+	top: 234px;
+	left: 0px;
+	width: 143px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+#payment_methods {
+	top: 0px;
+	left: 816px;
+	width: 152px;
+	height: 265.2px;
+}
+#payment_methods_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 152px;
+	height: 130.2px;
+}
+
+#payment_methods_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 172px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+#icon {
+	top: 31px;
+	left: 0px;
+	width: 152px;
+	height: 99.2px;
+}
+#payment_ {
+	top: 0px;
+	left: 0px;
+	width: 152px;
+	height: 26.4px;
+}
+
+#__img___visa_dark {
+	top: px;
+	left: 0px;
+	width: 44px;
+	height: 26.4px;
+}
+
+
+#__img___mastercard_dark {
+	top: 0px;
+	left: 54px;
+	width: 44px;
+	height: 26.4px;
+}
+
+
+#__img___maestro_dark {
+	top: 0px;
+	left: 108px;
+	width: 44px;
+	height: 26.4px;
+}
+
+#payment__ek1 {
+	top: 36.4px;
+	left: 0px;
+	width: 152px;
+	height: 26.4px;
+}
+
+#__img___dinersclub_dark {
+	top: 0px;
+	left: 0px;
+	width: 44px;
+	height: 26.4px;
+}
+
+
+#__img___skrill_dark {
+	top: 0px;
+	left: 54px;
+	width: 44px;
+	height: 26.4px;
+}
+
+
+#__img___bitcoin_dark {
+	top: 0px;
+	left: 108px;
+	width: 44px;
+	height: 26.4px;
+}
+
+#frame_205 {
+	top: 72.8px;
+	left: 0px;
+	width: 152px;
+	height: 26.4px;
+}
+
+#qiwi_1 {
+	top: 0px;
+	left: 0px;
+	width: 44px;
+	height: 26.4px;
+}
+
+
+#hsbc_1 {
+	top: 0px;
+	left: 54px;
+	width: 44px;
+	height: 26.4px;
+}
+
+
+#litecoin_1 {
+	top: 0px;
+	left: 108px;
+	width: 44px;
+	height: 26.4px;
+}
+
+#security___trust {
+	top: 160.2px;
+	left: 0px;
+	width: 141px;
+	height: 105px;
+}
+
+#security___trust_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 162px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+#icon_ek1 {
+	top: 33px;
+	left: 0px;
+	width: 140.52px;
+	height: 72px;
+}
+
+#ctv_1 {
+	top: 0px;
+	left: 0px;
+	width: 64px;
+	height: 72px;
+}
+
+
+#comodo_1 {
+	top: 0px;
+	left: 74px;
+	width: 66.52px;
+	height: 55px;
+}
+
+#group_266 {
+	top: 0px;
+	left: 375px;
+	width: 249px;
+	height: 202.27px;
+}
+
+#smartwinners {
+	top: 0px;
+	left: 3px;
+	width: 145px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+#group_265 {
+	top: 36px;
+	left: 0px;
+	width: 249px;
+	height: 166.27px;
+}
+
+#the_trade_name_smartwinners_and_all_content_on_this_website_is_a_copyright_of_smartwinners_limited__all_rights_reserved__we_are_an_independent_lottery_ticket_purchasing_service__we_are_not_affiliated_with_nor_are_we_endorsed_by_any_state_sanctioned_lottery_organization__we_make_no_claims_on_our_site_to_be_such_ {
+	top: -6px;
+	left: 0px;
+	width: 266px;
+	height: 106px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 14.400000572205px;
+	color:#000000;
+}
+
+
+#our_registered_business_address_is__unit_6158__po_box_6945__london__w1a_6us__united_kingdom_ {
+	top: 103px;
+	left: 0px;
+	width: 256.06px;
+	height: 72.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 13px;
+	text-align: left;
+	line-height: 21px;
+	margin-top: -2.6666666666667px;
+	height: 85.5px;
+	color:#000000;
+}
+
+#group__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 944.27px;
+	height: 42px;
+}
+#customer_service {
+	top: 0px;
+	left: 0px;
+	width: 214px;
+	height: 42px;
+}
+
+#__img___icon_whatsapp {
+	top: 3px;
+	left: 0px;
+	width: 36px;
+	height: 36px;
+}
+
+#customer_service_ek1 {
+	top: 0px;
+	left: 51px;
+	width: 163px;
+	height: 42px;
+}
+
+#live_chat_by_whatsapp {
+	top: 0px;
+	left: 0px;
+	width: 184px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#customer_service_ek2 {
+	top: 21px;
+	left: 0px;
+	width: 112px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: left;
+	line-height: 21px;
+	margin-top: -3px;
+	height: 41px;
+	color:#5F5F5F;
+}
+
+#social {
+	top: 3px;
+	left: 816px;
+	width: 128px;
+	height: 36px;
+}
+
+#__img___icon_facebook {
+	top: 0px;
+	left: 0px;
+	width: 36px;
+	height: 36px;
+}
+
+
+#__img___icon_twitter {
+	top: 0px;
+	left: 46px;
+	width: 36px;
+	height: 36px;
+}
+
+
+#__img___icon_facebook_messenger {
+	top: 0px;
+	left: 92px;
+	width: 36px;
+	height: 36px;
+}
+
+#container {
+	top: 164px;
+	width: 1200px;
+	height: 2399px;
+}
+#faq {
+	top: 2192px;
+	left: 15px;
+	width: 1170px;
+	height: 207px;
+}
+
+#frequently_asked_question__f_a_q__ {
+	top: 0px;
+	left: 0px;
+	width: 448px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: center;
+	line-height: 36px;
+	color:#000000;
+}
+
+#line {
+	top: 66px;
+	left: 0px;
+	width: 776px;
+	height: 141px;
+}
+#f_a_q_ {
+	top: 0px;
+	left: 0px;
+	width: 776px;
+	height: 37px;
+}
+
+#line_12 {
+	top: 37px;
+	left: 0px;
+	width: 776px;
+	height: 1px;
+	background:#E0E0E0;
+}
+
+#group_234 {
+	top: 3px;
+	left: 20px;
+	width: 736px;
+	height: 24px;
+}
+
+#can_i_play_the_lottery_online_ {
+	top: 0px;
+	left: 0px;
+	width: 251px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	line-height: 24px;
+	color:#0061A3;
+}
+
+#icon_expand_more {
+	top: 0px;
+	left: 712px;
+	width: 23.57px;
+	height: 24px;
+}
+
+#vector {
+	top: 9px;
+	left: 6.3px;
+	width: 10.98px;
+	height: 6.59px;
+}
+
+#f_a_q__ek1 {
+	top: 52px;
+	left: 0px;
+	width: 776px;
+	height: 37px;
+}
+
+#line_12_ek1 {
+	top: 37px;
+	left: 0px;
+	width: 776px;
+	height: 1px;
+	background:#E0E0E0;
+}
+
+#group_234_ek1 {
+	top: 3px;
+	left: 20px;
+	width: 736px;
+	height: 24px;
+}
+
+#how_will_i_get_my_wins_ {
+	top: 0px;
+	left: 0px;
+	width: 211px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	line-height: 24px;
+	color:#0061A3;
+}
+
+#icon_expand_more_ek1 {
+	top: 0px;
+	left: 712px;
+	width: 23.57px;
+	height: 24px;
+}
+
+#vector_ek2 {
+	top: 9px;
+	left: 6.3px;
+	width: 10.98px;
+	height: 6.59px;
+}
+
+#f_a_q__ek2 {
+	top: 104px;
+	left: 0px;
+	width: 776px;
+	height: 37px;
+}
+
+#line_12_ek2 {
+	top: 37px;
+	left: 0px;
+	width: 776px;
+	height: 1px;
+	background:#E0E0E0;
+}
+
+#group_234_ek2 {
+	top: 3px;
+	left: 20px;
+	width: 736px;
+	height: 24px;
+}
+
+#is_it_safe_to_play_lottery_online_ {
+	top: 0px;
+	left: 0px;
+	width: 269px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	line-height: 24px;
+	color:#0061A3;
+}
+
+#icon_expand_more_ek2 {
+	top: 0px;
+	left: 712px;
+	width: 23.57px;
+	height: 24px;
+}
+
+#vector_ek4 {
+	top: 9px;
+	left: 6.3px;
+	width: 10.98px;
+	height: 6.59px;
+}
+
+#card {
+	top: 1676px;
+	left: 15px;
+	width: 1170px;
+	height: 441px;
+}
+#group_297 {
+	top: 0px;
+	left: 790px;
+	width: 380px;
+	height: 442px;
+}
+#__winners {
+	top: 188px;
+	left: 0px;
+	width: 379px;
+	height: 254px;
+}
+#card_3 {
+	top: 0px;
+	left: 0px;
+	width: 379px;
+	height: 78px;
+}
+
+#winner_1 {
+	top: 10px;
+	left: 15px;
+	width: 75.32px;
+	height: 58px;
+}
+
+#frame_204 {
+	top: 10px;
+	left: 105.75px;
+	width: 167px;
+	height: 63px;
+}
+
+#_20_11_2021 {
+	top: 4.34px;
+	left: -2px;
+	width: 83px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 21px;
+	color:#000000;
+}
+
+#frame_205_ek1 {
+	top: 21px;
+	left: 0px;
+	width: 114px;
+	height: 21px;
+}
+
+#__img___country {
+	top: 1.41px;
+	left: 0px;
+	width: 20px;
+	height: 18.18px;
+}
+
+
+#j_j_won__175 {
+	top: 0px;
+	left: 23px;
+	width: 101px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#in_7____49_draw__13476 {
+	top: 42px;
+	left: -2px;
+	width: 179px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 21px;
+	color:#5F5F5F;
+}
+
+#card_3_ek1 {
+	top: 93px;
+	left: 0px;
+	width: 379px;
+	height: 78px;
+}
+
+#winner_1_ek1 {
+	top: 10px;
+	left: 15px;
+	width: 75.32px;
+	height: 58px;
+}
+
+#frame_204_ek1 {
+	top: 10px;
+	left: 105.75px;
+	width: 167px;
+	height: 63px;
+}
+
+#_20_11_2021_ek1 {
+	top: 4.34px;
+	left: -2px;
+	width: 83px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 21px;
+	color:#000000;
+}
+
+#frame_205_ek2 {
+	top: 21px;
+	left: 0px;
+	width: 114px;
+	height: 21px;
+}
+
+#__img___country_ek1 {
+	top: 1.41px;
+	left: 0px;
+	width: 20px;
+	height: 18.18px;
+}
+
+
+#j_j_won__175_ek1 {
+	top: 0px;
+	left: 23px;
+	width: 101px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#in_7____49_draw__13476_ek1 {
+	top: 42px;
+	left: -2px;
+	width: 179px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 21px;
+	color:#5F5F5F;
+}
+
+#card_3_ek2 {
+	top: 186px;
+	left: 0px;
+	width: 379px;
+	height: 78px;
+}
+
+#winner_1_ek2 {
+	top: 10px;
+	left: 15px;
+	width: 75.32px;
+	height: 58px;
+}
+
+#frame_204_ek2 {
+	top: 10px;
+	left: 105.75px;
+	width: 167px;
+	height: 63px;
+}
+
+#_20_11_2021_ek2 {
+	top: 4.34px;
+	left: -2px;
+	width: 83px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 21px;
+	color:#000000;
+}
+
+#frame_205_ek3 {
+	top: 21px;
+	left: 0px;
+	width: 114px;
+	height: 21px;
+}
+
+#__img___country_ek2 {
+	top: 1.41px;
+	left: 0px;
+	width: 20px;
+	height: 18.18px;
+}
+
+
+#j_j_won__175_ek2 {
+	top: 0px;
+	left: 23px;
+	width: 101px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#in_7____49_draw__13476_ek2 {
+	top: 42px;
+	left: -2px;
+	width: 179px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 21px;
+	color:#5F5F5F;
+}
+
+#frame_304 {
+	top: 60px;
+	left: 0px;
+	width: 380px;
+	height: 98px;
+}
+
+#price {
+	top: 32px;
+	left: 89px;
+	width: 233px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	padding-top: 4px;
+	margin-top: -4px;
+	color:#13902A;
+}
+
+#frame_303 {
+	top: 59px;
+	left: 66px;
+	width: 248px;
+	height: 29px;
+}
+
+#price_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 148px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 26px;
+	text-align: left;
+	line-height: 31.200001239777px;
+	color:#000000;
+}
+
+
+#price_ek2 {
+	top: 7px;
+	left: 127px;
+	width: 144px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	line-height: 21.600000858307px;
+	color:#000000;
+}
+
+
+#price_ek3 {
+	top: 5px;
+	left: 108.5px;
+	width: 186px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	line-height: 21.600000858307px;
+	color:#000000;
+}
+
+#title {
+	top: 0px;
+	left: 0px;
+	width: 380px;
+	height: 45px;
+	background: #F30000;
+	border-radius: 8px;
+}
+
+#our_latest_winners {
+	top: 10.5px;
+	left: -3px;
+	width: 394px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 24px;
+	color:#FFFFFF;
+}
+
+#frame_283 {
+	top: 0px;
+	left: 0px;
+	width: 775px;
+	height: 461px;
+}
+#title_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 775px;
+	height: 45px;
+	background: #F30000;
+	border-radius: 8px;
+}
+
+#biggest_lottery_winner {
+	top: 10.5px;
+	left: -3px;
+	width: 789px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 24px;
+	color:#FFFFFF;
+}
+
+#frame_280 {
+	top: 60px;
+	left: 0px;
+	width: 775px;
+	height: 382px;
+}
+#_______1_3 {
+	top: 0px;
+	left: 0px;
+	width: 380px;
+	height: 151px;
+}
+#_____2 {
+	top: -15.45px;
+	left: -23.35px;
+	width: 426.36px;
+	height: 288.91px;
+}
+#background_2 {
+	top: 0px;
+	left: 0px;
+	width: 426.36px;
+	height: 288.91px;
+}
+#group {
+	top: 0px;
+	left: 0px;
+	width: 426.36px;
+	height: 288.91px;
+}
+
+#vector_ek6 {
+	top: 48px;
+	left: 241px;
+	width: 20.46px;
+	height: 26.55px;
+}
+
+
+#vector_ek7 {
+	top: 96px;
+	left: 33px;
+	width: 27.26px;
+	height: 16.78px;
+}
+
+
+#rectangle {
+	top: 218px;
+	left: 136px;
+	width: 49.2px;
+	height: 63.29px;
+}
+
+
+#rectangle_ek1 {
+	top: 67px;
+	left: 78px;
+	width: 44.37px;
+	height: 41.55px;
+}
+
+
+#vector_ek8 {
+	top: 225px;
+	left: 220px;
+	width: 12.98px;
+	height: 7.57px;
+}
+
+
+#vector_ek9 {
+	top: 156px;
+	left: 176px;
+	width: 5.72px;
+	height: 11.1px;
+}
+
+
+#vector_ek10 {
+	top: 40px;
+	left: 108px;
+	width: 3.03px;
+	height: 3.43px;
+}
+
+
+#vector_ek11 {
+	top: 152px;
+	left: 286px;
+	width: 2.84px;
+	height: 5.42px;
+}
+
+
+#vector_ek12 {
+	top: 208px;
+	left: 116px;
+	width: 3.68px;
+	height: 5.38px;
+}
+
+
+#vector_ek13 {
+	top: 113px;
+	left: 159px;
+	width: 5.81px;
+	height: 11.82px;
+}
+
+
+#vector_ek14 {
+	top: 131px;
+	left: 350px;
+	width: 5.81px;
+	height: 11.8px;
+}
+
+
+#vector_ek15 {
+	top: 241px;
+	left: 48px;
+	width: 9.81px;
+	height: 10.05px;
+}
+
+
+#vector_ek16 {
+	top: 132px;
+	left: 108px;
+	width: 6.63px;
+	height: 12.56px;
+}
+
+
+#vector_ek17 {
+	top: 204px;
+	left: 305px;
+	width: 9.58px;
+	height: 10.75px;
+}
+
+
+#vector_ek18 {
+	top: 223px;
+	left: 119px;
+	width: 10.15px;
+	height: 7.72px;
+}
+
+
+#vector_ek19 {
+	top: 237px;
+	left: 125px;
+	width: 3.87px;
+	height: 5.17px;
+}
+
+
+#vector_ek20 {
+	top: 115px;
+	left: 252px;
+	width: 10.69px;
+	height: 20.29px;
+}
+
+
+#vector_ek21 {
+	top: 59px;
+	left: 190px;
+	width: 5.02px;
+	height: 3.41px;
+}
+
+
+#vector_ek22 {
+	top: 57px;
+	left: 119px;
+	width: 3.65px;
+	height: 2.47px;
+}
+
+
+#vector_ek23 {
+	top: 69px;
+	left: 224px;
+	width: 4.67px;
+	height: 3.18px;
+}
+
+
+#vector_ek24 {
+	top: 55px;
+	left: 82px;
+	width: 4.67px;
+	height: 3.16px;
+}
+
+
+#vector_ek25 {
+	top: 103px;
+	left: 139px;
+	width: 5.45px;
+	height: 5.82px;
+}
+
+
+#vector_ek26 {
+	top: 95px;
+	left: 304px;
+	width: 3.12px;
+	height: 2.12px;
+}
+
+
+#vector_ek27 {
+	top: 136px;
+	left: 297px;
+	width: 6.12px;
+	height: 4.13px;
+}
+
+
+#vector_ek28 {
+	top: 84px;
+	left: 253px;
+	width: 4.54px;
+	height: 7.64px;
+}
+
+
+#vector_ek29 {
+	top: 126px;
+	left: 123px;
+	width: 3.22px;
+	height: 1.58px;
+}
+
+
+#vector_ek30 {
+	top: 142px;
+	left: 153px;
+	width: 2.27px;
+	height: 3.33px;
+}
+
+
+#vector_ek31 {
+	top: 213px;
+	left: 379px;
+	width: 2.25px;
+	height: 3.33px;
+}
+
+
+#vector_ek32 {
+	top: 236px;
+	left: 157px;
+	width: 0.76px;
+	height: 1.61px;
+}
+
+
+#vector_ek33 {
+	top: 161px;
+	left: 225px;
+	width: 6.93px;
+	height: 3.34px;
+}
+
+
+#vector_ek34 {
+	top: 217px;
+	left: 278px;
+	width: 4.33px;
+	height: 6.63px;
+}
+
+
+#vector_ek35 {
+	top: 241px;
+	left: 318px;
+	width: 3.47px;
+	height: 6.91px;
+}
+
+
+#vector_ek36 {
+	top: 170px;
+	left: 311px;
+	width: 7.23px;
+	height: 10.93px;
+}
+
+
+#vector_ek37 {
+	top: 157px;
+	left: 380px;
+	width: 7.23px;
+	height: 10.89px;
+}
+
+
+#rectangle_ek2 {
+	top: 81px;
+	left: 288px;
+	width: 67.52px;
+	height: 53.63px;
+}
+
+
+#vector_ek38 {
+	top: 131px;
+	left: 140px;
+	width: 3.11px;
+	height: 6.95px;
+}
+
+
+#vector_ek39 {
+	top: 74px;
+	left: 380px;
+	width: 3.11px;
+	height: 6.96px;
+}
+
+
+#vector_ek40 {
+	top: 159px;
+	left: 251px;
+	width: 5.41px;
+	height: 7.17px;
+}
+
+
+#vector_ek41 {
+	top: 61px;
+	left: 69px;
+	width: 5.42px;
+	height: 7.17px;
+}
+
+
+#vector_ek42 {
+	top: 183px;
+	left: 133px;
+	width: 2.72px;
+	height: 5.3px;
+}
+
+
+#vector_ek43 {
+	top: 60px;
+	left: 198px;
+	width: 6.37px;
+	height: 10.5px;
+}
+
+
+#vector_ek44 {
+	top: 32px;
+	left: 364px;
+	width: 6.37px;
+	height: 10.53px;
+}
+
+
+#vector_ek45 {
+	top: 225px;
+	left: 274px;
+	width: 3.21px;
+	height: 2.85px;
+}
+
+
+#vector_ek46 {
+	top: 38px;
+	left: 173px;
+	width: 7.75px;
+	height: 8.99px;
+}
+
+
+#vector_ek47 {
+	top: 190px;
+	left: 370px;
+	width: 7.75px;
+	height: 8.99px;
+}
+
+
+#vector_ek48 {
+	top: 152px;
+	left: 122px;
+	width: 4.41px;
+	height: 3.64px;
+}
+
+
+#vector_ek49 {
+	top: 139px;
+	left: 261px;
+	width: 4.21px;
+	height: 4.51px;
+}
+
+
+#vector_ek50 {
+	top: 183px;
+	left: 228px;
+	width: 3.22px;
+	height: 2.85px;
+}
+
+
+#vector_ek51 {
+	top: 206px;
+	left: 203px;
+	width: 5.85px;
+	height: 7.79px;
+}
+
+
+#vector_ek52 {
+	top: 177px;
+	left: 167px;
+	width: 2.41px;
+	height: 3.22px;
+}
+
+
+#vector_ek53 {
+	top: 207px;
+	left: 74px;
+	width: 2.41px;
+	height: 3.22px;
+}
+
+
+#vector_ek54 {
+	top: 113px;
+	left: 142px;
+	width: 8.44px;
+	height: 6.23px;
+}
+
+
+#vector_ek55 {
+	top: 92px;
+	left: 167px;
+	width: 5.41px;
+	height: 2.84px;
+}
+
+
+#vector_ek56 {
+	top: 89px;
+	left: 69px;
+	width: 5.41px;
+	height: 2.85px;
+}
+
+
+#vector_ek57 {
+	top: 66px;
+	left: 139px;
+	width: 3.38px;
+	height: 1.52px;
+}
+
+
+#vector_ek58 {
+	top: 76px;
+	left: 133px;
+	width: 6.59px;
+	height: 4.33px;
+}
+
+
+#vector_ek59 {
+	top: 88px;
+	left: 194px;
+	width: 10.87px;
+	height: 7.26px;
+}
+
+
+#vector_ek60 {
+	top: 57px;
+	left: 45px;
+	width: 10.91px;
+	height: 7.25px;
+}
+
+
+#vector_ek61 {
+	top: 56px;
+	left: 359px;
+	width: 10.86px;
+	height: 7.27px;
+}
+
+
+#vector_ek62 {
+	top: 103px;
+	left: 236px;
+	width: 8.98px;
+	height: 5.84px;
+}
+
+
+#vector_ek63 {
+	top: 69px;
+	left: 113px;
+	width: 2.63px;
+	height: 5.13px;
+}
+
+
+#vector_ek64 {
+	top: 64px;
+	left: 162px;
+	width: 2.96px;
+	height: 2.22px;
+}
+
+
+#vector_ek65 {
+	top: 35px;
+	left: 249px;
+	width: 2.84px;
+	height: 4.06px;
+}
+
+
+#vector_ek66 {
+	top: 66px;
+	left: 154px;
+	width: 4.57px;
+	height: 6.19px;
+}
+
+
+#vector_ek67 {
+	top: 88px;
+	left: 181px;
+	width: 3.99px;
+	height: 3.76px;
+}
+
+
+#vector_ek68 {
+	top: 179px;
+	left: 272px;
+	width: 5.71px;
+	height: 6.34px;
+}
+
+
+#vector_ek69 {
+	top: 89px;
+	left: 110px;
+	width: 2.92px;
+	height: 3.92px;
+}
+
+
+#vector_ek70 {
+	top: 57px;
+	left: 140px;
+	width: 3.54px;
+	height: 4.74px;
+}
+
+
+#vector_ek71 {
+	top: 114px;
+	left: 322px;
+	width: 1.64px;
+	height: 1.96px;
+}
+
+
+#vector_ek72 {
+	top: 68px;
+	left: 304px;
+	width: 3.72px;
+	height: 4.48px;
+}
+
+
+#vector_ek73 {
+	top: 131px;
+	left: 316px;
+	width: 6.51px;
+	height: 7.85px;
+}
+
+
+#vector_ek74 {
+	top: 115px;
+	left: 364px;
+	width: 6.52px;
+	height: 7.86px;
+}
+
+
+#vector_ek75 {
+	top: 166px;
+	left: 360px;
+	width: 6.51px;
+	height: 7.85px;
+}
+
+
+#vector_ek76 {
+	top: 97px;
+	left: 198px;
+	width: 2.7px;
+	height: 3.84px;
+}
+
+
+#vector_ek77 {
+	top: 148px;
+	left: 221px;
+	width: 3.77px;
+	height: 4.95px;
+}
+
+
+#vector_ek78 {
+	top: 222px;
+	left: 86px;
+	width: 3.77px;
+	height: 4.95px;
+}
+
+
+#vector_ek79 {
+	top: 155px;
+	left: 229px;
+	width: 3.64px;
+	height: 2.74px;
+}
+
+
+#vector_ek80 {
+	top: 172px;
+	left: 159px;
+	width: 4.44px;
+	height: 3.48px;
+}
+
+
+#vector_ek81 {
+	top: 189px;
+	left: 172px;
+	width: 4.52px;
+	height: 5.27px;
+}
+
+
+#vector_ek82 {
+	top: 113px;
+	left: 385px;
+	width: 4.52px;
+	height: 5.27px;
+}
+
+
+#vector_ek83 {
+	top: 177px;
+	left: 186px;
+	width: 2.75px;
+	height: 3.14px;
+}
+
+
+#vector_ek84 {
+	top: 196px;
+	left: 190px;
+	width: 3.16px;
+	height: 2.65px;
+}
+
+
+#vector_ek85 {
+	top: 239px;
+	left: 77px;
+	width: 3.17px;
+	height: 2.65px;
+}
+
+
+#vector_ek86 {
+	top: 255px;
+	left: 98px;
+	width: 3.16px;
+	height: 2.65px;
+}
+
+
+#vector_ek87 {
+	top: 68px;
+	left: 332px;
+	width: 6.13px;
+	height: 5.29px;
+}
+
+
+#vector_ek88 {
+	top: 28px;
+	left: 150px;
+	width: 8.8px;
+	height: 6.73px;
+}
+
+
+#vector_ek89 {
+	top: 68px;
+	left: 293px;
+	width: 6.94px;
+	height: 3.33px;
+}
+
+
+#vector_ek90 {
+	top: 171px;
+	left: 53px;
+	width: 6.94px;
+	height: 3.33px;
+}
+
+
+#vector_ek91 {
+	top: 54px;
+	left: 314px;
+	width: 3.74px;
+	height: 4.49px;
+}
+
+
+#vector_ek92 {
+	top: 46px;
+	left: 306px;
+	width: 4.23px;
+	height: 3.2px;
+}
+
+
+#vector_ek93 {
+	top: 43px;
+	left: 267px;
+	width: 3.94px;
+	height: 4.83px;
+}
+
+
+#vector_ek94 {
+	top: 47px;
+	left: 326px;
+	width: 4.22px;
+	height: 3.38px;
+}
+
+
+#vector_ek95 {
+	top: 151px;
+	left: 194px;
+	width: 4.33px;
+	height: 7.36px;
+}
+
+
+#vector_ek96 {
+	top: 123px;
+	left: 196px;
+	width: 4.76px;
+	height: 6.69px;
+}
+
+
+#vector_ek97 {
+	top: 50px;
+	left: 156px;
+	width: 2.98px;
+	height: 5.08px;
+}
+
+
+#vector_ek98 {
+	top: 29px;
+	left: 132px;
+	width: 3.55px;
+	height: 4.55px;
+}
+
+
+#vector_ek99 {
+	top: 43px;
+	left: 140px;
+	width: 2.1px;
+	height: 2.96px;
+}
+
+
+#vector_ek100 {
+	top: 77px;
+	left: 294px;
+	width: 3.14px;
+	height: 3.75px;
+}
+
+
+#vector_ek101 {
+	top: 97px;
+	left: 361px;
+	width: 3.14px;
+	height: 3.76px;
+}
+
+
+#vector_ek102 {
+	top: 94px;
+	left: 241px;
+	width: 5.45px;
+	height: 6.05px;
+}
+
+
+#vector_ek103 {
+	top: 83px;
+	left: 316px;
+	width: 3.61px;
+	height: 3.9px;
+}
+
+
+#vector_ek104 {
+	top: 96px;
+	left: 270px;
+	width: 3.58px;
+	height: 3.93px;
+}
+
+
+#vector_ek105 {
+	top: 49px;
+	left: 281px;
+	width: 8.6px;
+	height: 6.04px;
+}
+
+
+#vector_ek106 {
+	top: 99px;
+	left: 229px;
+	width: 5.35px;
+	height: 5.79px;
+}
+
+
+#vector_ek107 {
+	top: 95px;
+	left: 217px;
+	width: 3.03px;
+	height: 4.05px;
+}
+
+
+#vector_ek108 {
+	top: 141px;
+	left: 301px;
+	width: 5.41px;
+	height: 6.42px;
+}
+
+
+#vector_ek109 {
+	top: 246px;
+	left: 379px;
+	width: 5.41px;
+	height: 6.42px;
+}
+
+
+#vector_ek110 {
+	top: 187px;
+	left: 292px;
+	width: 6.48px;
+	height: 4.58px;
+}
+
+
+#vector_ek111 {
+	top: 153px;
+	left: 164px;
+	width: 3.73px;
+	height: 4.2px;
+}
+
+
+#vector_ek112 {
+	top: 216px;
+	left: 174px;
+	width: 4.52px;
+	height: 3.99px;
+}
+
+
+#vector_ek113 {
+	top: 169px;
+	left: 85px;
+	width: 39.31px;
+	height: 23.05px;
+}
+
+
+#vector_ek114 {
+	top: 237px;
+	left: 305px;
+	width: 32.85px;
+	height: 32.18px;
+}
+
+
+#vector_ek115 {
+	top: 73px;
+	left: 148px;
+	width: 28.09px;
+	height: 16.81px;
+}
+
+
+#vector_ek116 {
+	top: 122px;
+	left: 282px;
+	width: 4.14px;
+	height: 7.98px;
+}
+
+
+#vector_ek117 {
+	top: 35px;
+	left: 58px;
+	width: 4.14px;
+	height: 7.97px;
+}
+
+
+#vector_ek118 {
+	top: 123px;
+	left: 217px;
+	width: 18.61px;
+	height: 10.02px;
+}
+
+
+#vector_ek119 {
+	top: 214px;
+	left: 252px;
+	width: 3.5px;
+	height: 7.73px;
+}
+
+
+#vector_ek120 {
+	top: 199px;
+	left: 143px;
+	width: 10.02px;
+	height: 8.23px;
+}
+
+
+#vector_ek121 {
+	top: 43px;
+	left: 201px;
+	width: 16.59px;
+	height: 4.75px;
+}
+
+
+#vector_ek122 {
+	top: 17px;
+	left: 312px;
+	width: 8.53px;
+	height: 19.58px;
+}
+
+
+#vector_ek123 {
+	top: 172px;
+	left: 199px;
+	width: 9.36px;
+	height: 10.57px;
+}
+
+
+#vector_ek124 {
+	top: 240px;
+	left: 348px;
+	width: 9.36px;
+	height: 10.57px;
+}
+
+
+#vector_ek125 {
+	top: 183px;
+	left: 240px;
+	width: 4.1px;
+	height: 9.81px;
+}
+
+
+#vector_ek126 {
+	top: 193px;
+	left: 262px;
+	width: 31.5px;
+	height: 15.54px;
+}
+
+
+#vector_ek127 {
+	top: 119px;
+	left: 165px;
+	width: 16.69px;
+	height: 20.42px;
+}
+
+
+#rectangle_ek3 {
+	top: 0px;
+	left: 96px;
+	width: 62.22px;
+	height: 73.92px;
+}
+
+
+#rectangle_ek4 {
+	top: 173px;
+	left: 0px;
+	width: 73.79px;
+	height: 61.36px;
+}
+
+
+#rectangle_ek5 {
+	top: 228px;
+	left: 353px;
+	width: 73.79px;
+	height: 61.36px;
+}
+
+
+#vector_ek128 {
+	top: 96px;
+	left: 124px;
+	width: 8.61px;
+	height: 7.63px;
+}
+
+
+#vector_ek129 {
+	top: 154px;
+	left: 321px;
+	width: 6.01px;
+	height: 5.74px;
+}
+
+
+#vector_ek130 {
+	top: 207px;
+	left: 346px;
+	width: 6.1px;
+	height: 4.13px;
+}
+
+
+#vector_ek131 {
+	top: 171px;
+	left: 384px;
+	width: 6.51px;
+	height: 7.85px;
+}
+
+
+#vector_ek132 {
+	top: 212px;
+	left: 350px;
+	width: 5.42px;
+	height: 6.42px;
+}
+
+
+#vector_ek133 {
+	top: 225px;
+	left: 370px;
+	width: 5.99px;
+	height: 5.73px;
+}
+
+
+#vector_ek134 {
+	top: 131px;
+	left: 71px;
+	width: 7.25px;
+	height: 10.89px;
+}
+
+
+#vector_ek135 {
+	top: 115px;
+	left: 82px;
+	width: 6px;
+	height: 5.74px;
+}
+
+
+#vector_ek136 {
+	top: 218px;
+	left: 175px;
+	width: 15.59px;
+	height: 14.9px;
+}
+
+
+#vector_ek137 {
+	top: 158px;
+	left: 262px;
+	width: 20.01px;
+	height: 15.36px;
+}
+
+
+#__img___group_291 {
+	top: 20px;
+	left: 173.5px;
+	width: 369px;
+	height: 50px;
+}
+
+#group_278 {
+	top: 321.04px;
+	left: 83.68px;
+	width: 255px;
+	height: 41px;
+}
+
+#uk_lotto_results_ {
+	top: 2px;
+	left: 0px;
+	width: 148px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+
+#__img___group_290 {
+	top: 0px;
+	left: 139px;
+	width: 116px;
+	height: 41px;
+}
+
+
+#__img___group_285 {
+	top: 95px;
+	left: 20.09px;
+	width: 413.57px;
+	height: 206.79px;
+}
+
+#button_top {
+	top: 321.54px;
+	left: 448.71px;
+	width: 232px;
+	height: 40px;
+}
+
+#bg {
+	top: 0px;
+	left: 0px;
+	width: 232px;
+	height: 40px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now {
+	top: 9.5px;
+	left: 84.5px;
+	width: 71px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 18.199999332428px;
+	color:#000000;
+}
+
+#group_289 {
+	top: 94px;
+	left: 449px;
+	width: 232.24px;
+	height: 192.81px;
+}
+#group_286 {
+	top: 0px;
+	left: 0px;
+	width: 232.24px;
+	height: 144px;
+}
+
+#shaun_vincent_a_lottery_winner {
+	top: 0px;
+	left: 0px;
+	width: 246px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#shaun_vincent__from_barnsley__celebrates_his__1_158_038_national_lottery_win_after_his_cheque_presentation_at_the_cedar_court_hotel__wakefield_ {
+	top: 39px;
+	left: 0px;
+	width: 251.24px;
+	height: 115px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#000000;
+}
+
+
+#read_the_full_story {
+	top: 176px;
+	left: 59px;
+	width: 133px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-decoration: underline;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#0061A3;
+}
+
+#__lottery_online {
+	top: 948px;
+	left: 15px;
+	width: 1170px;
+	height: 653px;
+}
+#title_ek2 {
+	top: -1px;
+	left: 0px;
+	width: 1170px;
+	height: 45px;
+	background: #F30000;
+    border-radius: 8px;
+}
+
+#our_latest_winners_ek1 {
+	top: 10.5px;
+	left: -3px;
+	width: 1184px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 24px;
+	color:#FFFFFF;
+}
+
+#line_ek1 {
+	top: 59px;
+	left: 35px;
+	width: 1100px;
+	height: 270px;
+}
+#card_2 {
+	top: 0px;
+	left: 0px;
+	width: 208px;
+	height: 270px;
+}
+
+#__img___mega_millions_logo {
+	top: 12px;
+	left: 56px;
+	width: 96px;
+	height: 94px;
+}
+
+#group_278_ek1 {
+	top: 134px;
+	left: 39.5px;
+	width: 129px;
+	height: 73px;
+}
+
+#price_ek4 {
+	top: 25px;
+	left: 2px;
+	width: 150px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_273 {
+	top: 0px;
+	left: 0px;
+	width: 129px;
+	height: 17px;
+}
+
+#__img___country_ek3 {
+	top: 1.5px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name {
+	top: 0px;
+	left: 23px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+#time {
+	top: 55px;
+	left: 28px;
+	width: 74px;
+	height: 18px;
+}
+
+#alarm {
+	top: 1px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#___subtitle {
+	top: 0px;
+	left: 20px;
+	width: 75px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 18px;
+	color:#0061A3;
+}
+
+#button_top_ek1 {
+	top: 219px;
+	left: 13px;
+	width: 182px;
+	height: 38px;
+}
+
+#bg_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 182px;
+	height: 38px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek1 {
+	top: 7px;
+	left: 55px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#icon_ek2 {
+	top: 10px;
+	left: 174px;
+	width: 16px;
+	height: 16px;
+}
+
+#card_2_ek1 {
+	top: 0px;
+	left: 223px;
+	width: 208px;
+	height: 270px;
+}
+
+#__img___mega_millions_logo_ek1 {
+	top: 12px;
+	left: 56px;
+	width: 96px;
+	height: 94px;
+}
+
+#group_278_ek2 {
+	top: 134px;
+	left: 39.5px;
+	width: 129px;
+	height: 73px;
+}
+
+#price_ek5 {
+	top: 25px;
+	left: 2px;
+	width: 150px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_273_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 129px;
+	height: 17px;
+}
+
+#__img___country_ek4 {
+	top: 1.5px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name_ek1 {
+	top: 0px;
+	left: 23px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+#time_ek1 {
+	top: 55px;
+	left: 28px;
+	width: 74px;
+	height: 18px;
+}
+
+#alarm_ek1 {
+	top: 1px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#___subtitle_ek1 {
+	top: 0px;
+	left: 20px;
+	width: 75px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 18px;
+	color:#0061A3;
+}
+
+#button_top_ek2 {
+	top: 219px;
+	left: 13px;
+	width: 182px;
+	height: 38px;
+}
+
+#bg_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 182px;
+	height: 38px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek2 {
+	top: 7px;
+	left: 55px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#icon_ek3 {
+	top: 10px;
+	left: 174px;
+	width: 16px;
+	height: 16px;
+}
+
+#card_2_ek2 {
+	top: 0px;
+	left: 446px;
+	width: 208px;
+	height: 270px;
+}
+
+#__img___mega_millions_logo_ek2 {
+	top: 12px;
+	left: 56px;
+	width: 96px;
+	height: 94px;
+}
+
+#group_278_ek3 {
+	top: 134px;
+	left: 39.5px;
+	width: 129px;
+	height: 73px;
+}
+
+#price_ek6 {
+	top: 25px;
+	left: 2px;
+	width: 150px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_273_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 129px;
+	height: 17px;
+}
+
+#__img___country_ek5 {
+	top: 1.5px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name_ek2 {
+	top: 0px;
+	left: 23px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+#time_ek2 {
+	top: 55px;
+	left: 28px;
+	width: 74px;
+	height: 18px;
+}
+
+#alarm_ek2 {
+	top: 1px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#___subtitle_ek2 {
+	top: 0px;
+	left: 20px;
+	width: 75px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 18px;
+	color:#0061A3;
+}
+
+#button_top_ek3 {
+	top: 219px;
+	left: 13px;
+	width: 182px;
+	height: 38px;
+}
+
+#bg_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 182px;
+	height: 38px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek3 {
+	top: 7px;
+	left: 55px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#icon_ek4 {
+	top: 10px;
+	left: 174px;
+	width: 16px;
+	height: 16px;
+}
+
+#card_2_ek3 {
+	top: 0px;
+	left: 669px;
+	width: 208px;
+	height: 270px;
+}
+
+#__img___mega_millions_logo_ek3 {
+	top: 12px;
+	left: 56px;
+	width: 96px;
+	height: 94px;
+}
+
+#group_278_ek4 {
+	top: 134px;
+	left: 39.5px;
+	width: 129px;
+	height: 73px;
+}
+
+#price_ek7 {
+	top: 25px;
+	left: 2px;
+	width: 150px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_273_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 129px;
+	height: 17px;
+}
+
+#__img___country_ek6 {
+	top: 1.5px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name_ek3 {
+	top: 0px;
+	left: 23px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+#time_ek3 {
+	top: 55px;
+	left: 28px;
+	width: 74px;
+	height: 18px;
+}
+
+#alarm_ek3 {
+	top: 1px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#___subtitle_ek3 {
+	top: 0px;
+	left: 20px;
+	width: 75px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 18px;
+	color:#0061A3;
+}
+
+#button_top_ek4 {
+	top: 219px;
+	left: 13px;
+	width: 182px;
+	height: 38px;
+}
+
+#bg_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 182px;
+	height: 38px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek4 {
+	top: 7px;
+	left: 55px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#icon_ek5 {
+	top: 10px;
+	left: 174px;
+	width: 16px;
+	height: 16px;
+}
+
+#card_2_ek4 {
+	top: 0px;
+	left: 892px;
+	width: 208px;
+	height: 270px;
+}
+
+#__img___mega_millions_logo_ek4 {
+	top: 12px;
+	left: 56px;
+	width: 96px;
+	height: 94px;
+}
+
+#group_278_ek5 {
+	top: 134px;
+	left: 39.5px;
+	width: 129px;
+	height: 73px;
+}
+
+#price_ek8 {
+	top: 25px;
+	left: 2px;
+	width: 150px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_273_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 129px;
+	height: 17px;
+}
+
+#__img___country_ek7 {
+	top: 1.5px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name_ek4 {
+	top: 0px;
+	left: 23px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+#time_ek4 {
+	top: 55px;
+	left: 28px;
+	width: 74px;
+	height: 18px;
+}
+
+#alarm_ek4 {
+	top: 1px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#___subtitle_ek4 {
+	top: 0px;
+	left: 20px;
+	width: 75px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 18px;
+	color:#0061A3;
+}
+
+#button_top_ek5 {
+	top: 219px;
+	left: 13px;
+	width: 182px;
+	height: 38px;
+}
+
+#bg_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 182px;
+	height: 38px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek5 {
+	top: 7px;
+	left: 55px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#icon_ek6 {
+	top: 10px;
+	left: 174px;
+	width: 16px;
+	height: 16px;
+}
+
+#line_ek2 {
+	top: 344px;
+	left: 35px;
+	width: 1100px;
+	height: 270px;
+}
+#card_2_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 208px;
+	height: 270px;
+}
+
+#__img___mega_millions_logo_ek5 {
+	top: 12px;
+	left: 56px;
+	width: 96px;
+	height: 94px;
+}
+
+#group_278_ek6 {
+	top: 134px;
+	left: 39.5px;
+	width: 129px;
+	height: 73px;
+}
+
+#price_ek9 {
+	top: 25px;
+	left: 2px;
+	width: 150px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_273_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 129px;
+	height: 17px;
+}
+
+#__img___country_ek8 {
+	top: 1.5px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name_ek5 {
+	top: 0px;
+	left: 23px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+#time_ek5 {
+	top: 55px;
+	left: 28px;
+	width: 74px;
+	height: 18px;
+}
+
+#alarm_ek5 {
+	top: 1px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#___subtitle_ek5 {
+	top: 0px;
+	left: 20px;
+	width: 75px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 18px;
+	color:#0061A3;
+}
+
+#button_top_ek6 {
+	top: 219px;
+	left: 13px;
+	width: 182px;
+	height: 38px;
+}
+
+#bg_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 182px;
+	height: 38px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek6 {
+	top: 7px;
+	left: 55px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#icon_ek7 {
+	top: 10px;
+	left: 174px;
+	width: 16px;
+	height: 16px;
+}
+
+#card_2_ek6 {
+	top: 0px;
+	left: 223px;
+	width: 208px;
+	height: 270px;
+}
+
+#__img___mega_millions_logo_ek6 {
+	top: 12px;
+	left: 56px;
+	width: 96px;
+	height: 94px;
+}
+
+#group_278_ek7 {
+	top: 134px;
+	left: 39.5px;
+	width: 129px;
+	height: 73px;
+}
+
+#price_ek10 {
+	top: 25px;
+	left: 2px;
+	width: 150px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_273_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 129px;
+	height: 17px;
+}
+
+#__img___country_ek9 {
+	top: 1.5px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name_ek6 {
+	top: 0px;
+	left: 23px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+#time_ek6 {
+	top: 55px;
+	left: 28px;
+	width: 74px;
+	height: 18px;
+}
+
+#alarm_ek6 {
+	top: 1px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#___subtitle_ek6 {
+	top: 0px;
+	left: 20px;
+	width: 75px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 18px;
+	color:#0061A3;
+}
+
+#button_top_ek7 {
+	top: 219px;
+	left: 13px;
+	width: 182px;
+	height: 38px;
+}
+
+#bg_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 182px;
+	height: 38px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek7 {
+	top: 7px;
+	left: 55px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#icon_ek8 {
+	top: 10px;
+	left: 174px;
+	width: 16px;
+	height: 16px;
+}
+
+#card_2_ek7 {
+	top: 0px;
+	left: 446px;
+	width: 208px;
+	height: 270px;
+}
+
+#__img___mega_millions_logo_ek7 {
+	top: 12px;
+	left: 56px;
+	width: 96px;
+	height: 94px;
+}
+
+#group_278_ek8 {
+	top: 134px;
+	left: 39.5px;
+	width: 129px;
+	height: 73px;
+}
+
+#price_ek11 {
+	top: 25px;
+	left: 2px;
+	width: 150px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_273_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 129px;
+	height: 17px;
+}
+
+#__img___country_ek10 {
+	top: 1.5px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name_ek7 {
+	top: 0px;
+	left: 23px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+#time_ek7 {
+	top: 55px;
+	left: 28px;
+	width: 74px;
+	height: 18px;
+}
+
+#alarm_ek7 {
+	top: 1px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#___subtitle_ek7 {
+	top: 0px;
+	left: 20px;
+	width: 75px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 18px;
+	color:#0061A3;
+}
+
+#button_top_ek8 {
+	top: 219px;
+	left: 13px;
+	width: 182px;
+	height: 38px;
+}
+
+#bg_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 182px;
+	height: 38px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek8 {
+	top: 7px;
+	left: 55px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#icon_ek9 {
+	top: 10px;
+	left: 174px;
+	width: 16px;
+	height: 16px;
+}
+
+#card_2_ek8 {
+	top: 0px;
+	left: 669px;
+	width: 208px;
+	height: 270px;
+}
+
+#__img___mega_millions_logo_ek8 {
+	top: 12px;
+	left: 56px;
+	width: 96px;
+	height: 94px;
+}
+
+#group_278_ek9 {
+	top: 134px;
+	left: 39.5px;
+	width: 129px;
+	height: 73px;
+}
+
+#price_ek12 {
+	top: 25px;
+	left: 2px;
+	width: 150px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_273_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 129px;
+	height: 17px;
+}
+
+#__img___country_ek11 {
+	top: 1.5px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name_ek8 {
+	top: 0px;
+	left: 23px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+#time_ek8 {
+	top: 55px;
+	left: 28px;
+	width: 74px;
+	height: 18px;
+}
+
+#alarm_ek8 {
+	top: 1px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#___subtitle_ek8 {
+	top: 0px;
+	left: 20px;
+	width: 75px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 18px;
+	color:#0061A3;
+}
+
+#button_top_ek9 {
+	top: 219px;
+	left: 13px;
+	width: 182px;
+	height: 38px;
+}
+
+#bg_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 182px;
+	height: 38px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek9 {
+	top: 7px;
+	left: 55px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#icon_ek10 {
+	top: 10px;
+	left: 174px;
+	width: 16px;
+	height: 16px;
+}
+
+#card_2_ek9 {
+	top: 0px;
+	left: 892px;
+	width: 208px;
+	height: 270px;
+}
+
+#__img___mega_millions_logo_ek9 {
+	top: 12px;
+	left: 56px;
+	width: 96px;
+	height: 94px;
+}
+
+#group_278_ek10 {
+	top: 134px;
+	left: 39.5px;
+	width: 129px;
+	height: 73px;
+}
+
+#price_ek13 {
+	top: 25px;
+	left: 2px;
+	width: 150px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_273_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 129px;
+	height: 17px;
+}
+
+#__img___country_ek12 {
+	top: 1.5px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name_ek9 {
+	top: 0px;
+	left: 23px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+#time_ek9 {
+	top: 55px;
+	left: 28px;
+	width: 74px;
+	height: 18px;
+}
+
+#alarm_ek9 {
+	top: 1px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#___subtitle_ek9 {
+	top: 0px;
+	left: 20px;
+	width: 75px;
+	height: 29px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 18px;
+	color:#0061A3;
+}
+
+#button_top_ek10 {
+	top: 219px;
+	left: 13px;
+	width: 182px;
+	height: 38px;
+}
+
+#bg_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 182px;
+	height: 38px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek10 {
+	top: 7px;
+	left: 55px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#icon_ek11 {
+	top: 10px;
+	left: 174px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#more_details__ {
+	top: 629px;
+	left: 1019px;
+	width: 139px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-decoration: underline;
+	text-align: left;
+	line-height: 24px;
+	color:#0061A3;
+}
+
+#lottery {
+	top: 657px;
+	left: 0px;
+	width: 1200px;
+	height: 216px;
+}
+
+#biggest_upcoming_lottery_draws {
+	top: 0px;
+	left: 5px;
+	width: 438px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: center;
+	line-height: 36px;
+	color:#000000;
+}
+
+#card_ek1 {
+	top: 66px;
+	left: 15.31px;
+	width: 1170px;
+	height: 149px;
+}
+#card_4 {
+	top: 0px;
+	left: 0px;
+	width: 380px;
+	height: 150px;
+}
+
+#bg_ek11 {
+	top: 90.57px;
+	left: 1.06px;
+	width: 377.9px;
+	height: 57.79px;
+}
+
+#button_top_ek11 {
+	top: 104px;
+	left: 13.31px;
+	width: 171px;
+	height: 36px;
+}
+
+#bg_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 171px;
+	height: 36px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek11 {
+	top: 6px;
+	left: 50px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+#time_ek10 {
+	top: 111px;
+	left: 223.85px;
+	width: 83px;
+	height: 18px;
+}
+
+#alarm_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 18px;
+	height: 18px;
+}
+
+
+#___subtitle_ek10 {
+	top: 0px;
+	left: 22px;
+	width: 84px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_279 {
+	top: 15px;
+	left: 192.7px;
+	width: 148px;
+	height: 63.6px;
+}
+
+#price_ek14 {
+	top: 41px;
+	left: 0px;
+	width: 179px;
+	height: 40.6px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	padding-top: 4px;
+	margin-top: -4px;
+	color:#13902A;
+}
+
+#name_ek10 {
+	top: 0px;
+	left: 6px;
+	width: 136px;
+	height: 36px;
+}
+#frame_273_ek10 {
+	top: 11px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+#__img___country_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name_ek11 {
+	top: 9.5px;
+	left: 30px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+
+#__img___mega_millions_logo_ek10 {
+	top: 5.3px;
+	left: 28.31px;
+	width: 141px;
+	height: 80px;
+}
+
+#card_4_ek1 {
+	top: 0px;
+	left: 395px;
+	width: 380px;
+	height: 150px;
+}
+#button {
+	top: 91.57px;
+	left: 1.06px;
+	width: 377.9px;
+	height: 57.79px;
+}
+
+#bg_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 377.9px;
+	height: 57.79px;
+}
+
+#button_top_ek12 {
+	top: 103px;
+	left: 13.31px;
+	width: 171px;
+	height: 36px;
+}
+
+#bg_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 171px;
+	height: 36px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek12 {
+	top: 6px;
+	left: 50px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+#time_ek11 {
+	top: 112px;
+	left: 223.85px;
+	width: 83px;
+	height: 18px;
+}
+
+#alarm_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 18px;
+	height: 18px;
+}
+
+
+#___subtitle_ek11 {
+	top: 0px;
+	left: 22px;
+	width: 84px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_279_ek1 {
+	top: 15px;
+	left: 192.7px;
+	width: 148px;
+	height: 63.6px;
+}
+
+#price_ek15 {
+	top: 41px;
+	left: 0px;
+	width: 179px;
+	height: 40.6px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	padding-top: 4px;
+	margin-top: -4px;
+	color:#13902A;
+}
+
+#name_ek12 {
+	top: 0px;
+	left: 6px;
+	width: 136px;
+	height: 36px;
+}
+#frame_273_ek11 {
+	top: 11px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+#__img___country_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name_ek13 {
+	top: 9.5px;
+	left: 30px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+
+#__img___mega_millions_logo_ek11 {
+	top: 6.3px;
+	left: 28.31px;
+	width: 141px;
+	height: 80px;
+}
+
+#card_4_ek2 {
+	top: 0px;
+	left: 790px;
+	width: 380px;
+	height: 150px;
+}
+#button_ek1 {
+	top: 91.57px;
+	left: 1.06px;
+	width: 377.9px;
+	height: 57.79px;
+}
+
+#bg_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 377.9px;
+	height: 57.79px;
+}
+
+#button_top_ek13 {
+	top: 103px;
+	left: 13.31px;
+	width: 171px;
+	height: 36px;
+}
+
+#bg_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 171px;
+	height: 36px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(247,211,0,1);
+}
+
+
+#play_now_ek13 {
+	top: 6px;
+	left: 50px;
+	width: 80px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#000000;
+}
+
+#time_ek12 {
+	top: 112px;
+	left: 223.85px;
+	width: 83px;
+	height: 18px;
+}
+
+#alarm_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 18px;
+	height: 18px;
+}
+
+
+#___subtitle_ek12 {
+	top: 0px;
+	left: 22px;
+	width: 84px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#group_279_ek2 {
+	top: 15px;
+	left: 192.7px;
+	width: 148px;
+	height: 63.6px;
+}
+
+#price_ek16 {
+	top: 41px;
+	left: 0px;
+	width: 179px;
+	height: 40.6px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	padding-top: 4px;
+	margin-top: -4px;
+	color:#13902A;
+}
+
+#name_ek14 {
+	top: 0px;
+	left: 9px;
+	width: 131px;
+	height: 36px;
+}
+#frame_273_ek12 {
+	top: 11px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+#__img___country_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+
+
+#name_ek15 {
+	top: 9.5px;
+	left: 25px;
+	width: 125px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+
+#__img___mega_millions_logo_ek12 {
+	top: 6.3px;
+	left: 28.31px;
+	width: 141px;
+	height: 80px;
+}
+
+#top_section {
+	top: 0px;
+	left: 0px;
+	width: 1200px;
+	height: 582px;
+}
+
+#banner {
+	top: 0px;
+	left: -0.01px;
+	width: 1200.01px;
+	height: 462px;
+}
+
+#card_ek2 {
+	top: 492px;
+	left: 15px;
+	width: 1170px;
+	height: 90px;
+}
+#card_1 {
+	top: 0px;
+	left: 0px;
+	width: 380px;
+	height: 90px;
+}
+
+#it_s_easy__pick_from_over_40_official_lottery_games_you_wish_to_play__then_select_your_winning_numbers_ {
+	top: 33px;
+	left: 80px;
+	width: 315.27px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#5F5F5F;
+}
+
+#group_281 {
+	top: 4px;
+	left: 80px;
+	width: 285px;
+	height: 24px;
+}
+
+#play_now__ {
+	top: 2px;
+	left: 216px;
+	width: 88px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-decoration: underline;
+	text-align: left;
+	line-height: 21px;
+	color:#0061A3;
+}
+
+
+#you_pick {
+	top: 0px;
+	left: 0px;
+	width: 92px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#__img__________1_1 {
+	top: 10px;
+	left: 5px;
+	width: 70px;
+	height: 70px;
+}
+
+#card_1_ek1 {
+	top: 0px;
+	left: 395px;
+	width: 380px;
+	height: 90px;
+}
+
+#once_you_ve_picked_your_winning_numbers_we_ll_purchase_your_ticket_on_your_behalf_ {
+	top: 34px;
+	left: 81.44px;
+	width: 308.96px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#5F5F5F;
+}
+
+#frame_256 {
+	top: 10px;
+	left: 15px;
+	width: 58px;
+	height: 24px;
+}
+#group_280 {
+	top: 5px;
+	left: 81.44px;
+	width: 283.56px;
+	height: 24px;
+}
+
+#play_now___ek1 {
+	top: 2px;
+	left: 194px;
+	width: 109px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-decoration: underline;
+	text-align: left;
+	line-height: 21px;
+	color:#0061A3;
+}
+
+
+#you_pick_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 79px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#__img___icon {
+	top: 9px;
+	left: 5px;
+	width: 72px;
+	height: 72px;
+}
+
+#card_1_ek2 {
+	top: 0px;
+	left: 790px;
+	width: 380px;
+	height: 90px;
+}
+
+#when_you_win__we_ll_automatically_credit_your_account_the_full_value_of_your_winnings_ {
+	top: 33px;
+	left: 80px;
+	width: 339.16px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#5F5F5F;
+}
+
+#group_282 {
+	top: 4px;
+	left: 80px;
+	width: 285px;
+	height: 24px;
+}
+
+#withdraw_my_winnings__ {
+	top: 2px;
+	left: 129px;
+	width: 166px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-decoration: underline;
+	text-align: right;
+	line-height: 21px;
+	color:#0061A3;
+}
+
+
+#you_pick_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 99px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#000000;
+}
+
+
+#__img__________1_2 {
+	top: 16px;
+	left: 0px;
+	width: 81px;
+	height: 61px;
+}
+
+#menu {
+	top: 15px;
+	width: 1200px;
+	height: 119px;
+}
+#_1 {
+	top: 0px;
+	left: 0px;
+	width: 1200px;
+	height: 80px;
+}
+#social_ek1 {
+	top: 15px;
+	left: 1068px;
+	width: 112px;
+	height: 50px;
+}
+#social_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 94px;
+	height: 16px;
+}
+
+#__img___icon_facebook_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#__img___icon_twitter_ek1 {
+	top: 0px;
+	left: 26px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#__img___icon_facebook_messenger_ek1 {
+	top: 0px;
+	left: 52px;
+	width: 16px;
+	height: 16px;
+}
+
+
+#__img___icon_whatsapp_ek1 {
+	top: 0px;
+	left: 78px;
+	width: 16px;
+	height: 16px;
+}
+
+#language_selection {
+	top: 26px;
+	left: 0px;
+	width: 112px;
+	height: 24px;
+}
+#country {
+	top: 5px;
+	left: 0px;
+	width: 20px;
+	height: 14px;
+}
+#group_ek1 {
+	top: 0.05px;
+	left: 0px;
+	width: 23.03px;
+	height: 25.38px;
+}
+
+#vector_ek138 {
+	top: 0px;
+	left: 0px;
+	width: 23px;
+	height: 14px;
+}
+
+
+#vector_ek139 {
+	top: 0px;
+	left: 0px;
+	width: 23px;
+	height: 12.3px;
+}
+
+
+#vector_ek140 {
+	top: 13px;
+	left: 0px;
+	width: 23px;
+	height: 12.3px;
+}
+
+
+#vector_ek141 {
+	top: 0px;
+	left: 0px;
+	width: 9.2px;
+	height: 6.62px;
+}
+
+
+#vector_ek142 {
+	top: 0px;
+	left: 0px;
+	width: 8.37px;
+	height: 5.97px;
+}
+
+#language {
+	top: 1.5px;
+	left: 25px;
+	width: 58px;
+	height: 21px;
+}
+
+#english {
+	top: 0px;
+	left: -2px;
+	width: 70px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: center;
+	line-height: 21px;
+	color:#000000;
+}
+
+#icon_expand_more_ek3 {
+	top: 0px;
+	left: 88px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek143 {
+	top: 9px;
+	left: 6.42px;
+	width: 11.17px;
+	height: 6.59px;
+}
+
+#welcome {
+	top: 19px;
+	left: 308px;
+	width: 162px;
+	height: 39px;
+}
+#welcome_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 162px;
+	height: 21px;
+}
+
+#welcome_roma__ {
+	top: 0px;
+	left: 0px;
+	width: 132px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#logout {
+	top: 1.5px;
+	left: 118px;
+	width: 63px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 18.199999332428px;
+	color:#0061A3;
+}
+
+#balance {
+	top: 21px;
+	left: 0px;
+	width: 131px;
+	height: 18px;
+}
+
+#your_balance_ {
+	top: 0.5px;
+	left: 0px;
+	width: 104px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16.800000667572px;
+	color:#000000;
+}
+
+
+#__0_00 {
+	top: 0px;
+	left: 90px;
+	width: 60px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 18.199999332428px;
+	color:#000000;
+}
+
+
+#logo {
+	top: 10px;
+	left: 0px;
+	width: 279px;
+	height: 60px;
+}
+
+#menu_ {
+	top: 85px;
+	left: 0px;
+	width: 1200px;
+	height: 34px;
+}
+#frame_294 {
+	top: 0px;
+	left: 0px;
+	width: 1036px;
+	height: 34px;
+}
+
+#bg_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 1036px;
+	height: 34px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(243,0,0,1);
+}
+
+#menu__ek1 {
+	top: 5px;
+	left: 25px;
+	width: 605.85px;
+	height: 24px;
+}
+
+#link_menu {
+	top: 2.5px;
+	left: 0px;
+	width: 67px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: left;
+	line-height: 19.200000762939px;
+	color:#FFFFFF;
+}
+
+
+#line_1 {
+	top: 12px;
+	left: 59px;
+	width: 24px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#FFFFFF;
+}
+
+
+#link_menu_ek1 {
+	top: 1.92px;
+	left: 96px;
+	width: 163px;
+	height: 31.16px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 19.200000762939px;
+	color:#FFFFFF;
+}
+
+
+#line_2 {
+	top: 12px;
+	left: 251px;
+	width: 24px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#FFFFFF;
+}
+
+
+#link_menu_ek2 {
+	top: 2.5px;
+	left: 288px;
+	width: 156px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 19.200000762939px;
+	color:#FFFFFF;
+}
+
+
+#line_3 {
+	top: 12px;
+	left: 436px;
+	width: 24px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#FFFFFF;
+}
+
+
+#link_menu_ek3 {
+	top: 2.5px;
+	left: 473px;
+	width: 128.85px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 19.200000762939px;
+	color:#FFFFFF;
+}
+
+
+#line_4 {
+	top: 12px;
+	left: 594px;
+	width: 24px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#FFFFFF;
+}
+
+#link_menu_ek4 {
+	top: 0px;
+	left: 1022px;
+	width: 178px;
+	height: 34px;
+}
+
+#rectangle_291 {
+	top: 0px;
+	left: 0px;
+	width: 178px;
+	height: 34px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(0,97,163,1);
+}
+
+
+#my_account {
+	top: 7.5px;
+	left: 38px;
+	width: 123px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 19.200000762939px;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
